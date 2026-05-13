@@ -1,0 +1,19 @@
+How to Run
+1. Clone this repository
+2. Open `blinkit_analysis.ipynb` in Google Colab or Jupyter Notebook
+3. Upload the CSV files
+4. Run cells in order
+
+##Insights & Recommendations
+- Blinkit should focus on improving customer sentiment 
+  (only 32% positive feedback is a concern)
+- 30% delay rate in deliveries needs operational attention
+- Dairy & Breakfast and Pharmacy are the strongest categories 
+  to focus marketing spend on
+- All 4 marketing channels perform similarly — 
+  A/B testing different creatives could help identify a winner
+
+# Author
+**Abhishek Santhosh**  
+Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/abhisan0)
