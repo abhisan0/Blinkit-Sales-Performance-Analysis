@@ -36,5 +36,3 @@ The dataset contains 8 CSV files with 5,000+ orders:
 - 🚚 69.4% of deliveries were completed on time
 - 😐 Customer sentiment was almost equally split — only 32% positive
 - 📧 Email was the highest revenue-generating marketing channel
-
-## 📂 Project Structure
